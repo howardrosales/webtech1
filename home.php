@@ -103,7 +103,7 @@
     </ul>
   </div>
   <div class="container-fluid">
-    <div class="row g-0">
+    <div class="row">
       <div class="col-auto left-column pc-display">
         <form>
           <div class="form-floating mb-2">
